@@ -13,7 +13,7 @@ const Home = () => {
             <h1>Paling Populer</h1>{" "}
             <Link
               href={`/allanime`}
-              className="cursor-pointer text-blue-400 active:scale-95 underline"
+              className="cursor-pointer text-blue-400 active:scale-95 z-50 underline"
             >
               Lihat semua
             </Link>
